@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bl47p"
+		},
+		{
+			"path": "../epics-containers.github.io"
+		},
+		{
+			"path": "../ec-services-template"
+		},
+		{
+			"path": "../ioc-ttt"
+		}
+	],
+	"settings": {}
+}
